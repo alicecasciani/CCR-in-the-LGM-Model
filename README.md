@@ -8,8 +8,7 @@ Monte Carlo simulations over a 10-year horizon generate exposure profiles—Expe
 
 
 The repository includes:
-MATLAB implementation 
-Report with methodology, calibration details, and results
+MATLAB implementation and report with methodology, calibration details, and results
 
 
 # How to run (MATLAB)
